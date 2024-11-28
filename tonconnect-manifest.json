@@ -1,0 +1,35 @@
+{
+  "url": "https://rapgame.app",
+  "name": "RAPGAME",
+  "iconUrl": "https://rapgame.app/RGcoinlogo-green.svg",
+  "termsOfUseUrl": "https://rapgame.app/terms",
+  "privacyPolicyUrl": "https://rapgame.app/privacy",
+  
+  "app_name": "RAPGAME",
+  "app_description": "RAPGAME Token Presale",
+  "app_icons": [{
+    "src": "RGcoinlogo-green.svg",
+    "sizes": "500x500",
+    "type": "image/svg+xml"
+  }],
+  
+  "manifest_version": 1,
+  "version": "1.0.0",
+  
+  "permissions": [
+    "tonconnect"
+  ],
+  
+  "features": [
+    "SendTransaction"
+  ],
+  
+  "platforms": [
+    "all"
+  ],
+  
+  "developer": {
+    "name": "RAPGAME io",
+    "url": "https://rapgame.app"
+  }
+}
